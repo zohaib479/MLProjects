@@ -1,7 +1,8 @@
 pandas
+dill
 numpy
 seaborn
 catboost
 xgboost
 scikit-learn
--e .
+# -e .
